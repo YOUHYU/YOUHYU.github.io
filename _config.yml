@@ -7,9 +7,9 @@
 
 # Site settings
 title: YHY
-brief-intro: Front-end Dev Engineer
+brief-intro: A High-school Student
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://YOUHYU.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
